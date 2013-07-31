@@ -89,7 +89,8 @@ Delete:
 
  
 
-Login to Azure Mobile Services:
+Login to Azure Mobile Services
+=======================
 
 Multi-auth Login is now supported ! (Microsoft Account, Facebook, Twitter & Google)
 This can be done in two ways: 
